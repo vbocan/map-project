@@ -1,6 +1,6 @@
 # Input two numbers
-num1 = 30
-num2 = 70
+num1 = 300
+num2 = 700
 
 # Add the numbers
 sum_result = num1 + num2
