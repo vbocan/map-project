@@ -1,5 +1,5 @@
 # Input two numbers
-num1 = 5
+num1 = 10
 num2 = 7
 
 # Add the numbers
