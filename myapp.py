@@ -1,6 +1,6 @@
 # Input two numbers
 num1 = 10
-num2 = 7
+num2 = 70
 
 # Add the numbers
 sum_result = num1 + num2
